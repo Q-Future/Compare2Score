@@ -29,7 +29,7 @@
 <div>
         <a href="http://sim.jxufe.cn/JDMKL/ymfang_EN.html/" target="_blank">Yuming Fang</a><sup>4</sup>,
       <a href="https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153" target="_blank">Guangtao Zhai</a><sup>3</sup>,
-      <a href="https://personal.ntu.edu.sg/wslin/Home.html" target="_blank">Weisi Lin</a><sup>2</sup>
+      <a href="https://personal.ntu.edu.sg/wslin/Home.html" target="_blank">Weisi Lin</a><sup>2</sup>,
       <a href="https://www.cs.cityu.edu.hk/~shiqwang/" target="_blank">Shiqi Wang</a><sup>1</sup><sup>#</sup>
 
   </div>
@@ -86,7 +86,7 @@ import requests
 import torch
 from transformers import AutoModelForCausalLM
 
-model = AutoModelForCausalLM.from_pretrained("VQA-CityU/Compare2Score_1", trust_remote_code=True, torch_dtype=torch.float16, device_map="auto")
+model = AutoModelForCausalLM.from_pretrained("q-future/Compare2Score", trust_remote_code=True, torch_dtype=torch.float16, device_map="auto")
 
 from PIL import Image
 image_path_url = "https://raw.githubusercontent.com/Q-Future/Q-Align/main/fig/singapore_flyer.jpg"
@@ -129,7 +129,7 @@ print("The quality score of this image is {}.".format(scorer(image_path)))
 
 ### Get Datasets
 
-Download all IQA datasets
+Download all IQA datasets and training JSONs
 
 ```python
 import os, glob

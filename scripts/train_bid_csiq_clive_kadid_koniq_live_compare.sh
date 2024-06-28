@@ -1,7 +1,7 @@
 #!/bin/bash
 LOAD='MAGAer13/mplug-owl2-llama2-7b'
 
-DATA_FILE=playground/data/training_sft/train_bid_csiq_clive_kadid_koniq_live_1_compare.json
+DATA_FILE=playground/data/training_jsons/train_bid_csiq_clive_kadid_koniq_live_1_compare.json
 deepspeed --master_port 25801 q_align/train/train_mem.py \
     --deepspeed ./scripts/zero3.json \
     --model_name_or_path $LOAD \

@@ -1,0 +1,807 @@
+[
+    {
+        "image": "live/jp2k/img30.bmp",
+        "gt_score": 36.573843,
+        "std": 1.581241601321203
+    },
+    {
+        "image": "live/jp2k/img41.bmp",
+        "gt_score": 68.07844,
+        "std": 1.9699127089403106
+    },
+    {
+        "image": "live/jp2k/img107.bmp",
+        "gt_score": 31.927214,
+        "std": 1.5312084849700591
+    },
+    {
+        "image": "live/jp2k/img132.bmp",
+        "gt_score": 89.235909,
+        "std": 2.729292865537815
+    },
+    {
+        "image": "live/jp2k/img163.bmp",
+        "gt_score": 61.80161,
+        "std": 2.363845921397348
+    },
+    {
+        "image": "live/jp2k/img216.bmp",
+        "gt_score": 99.658016,
+        "std": 2.4773827058171207
+    },
+    {
+        "image": "live/jpeg/img36.bmp",
+        "gt_score": 39.717192,
+        "std": 3.1019404541242093
+    },
+    {
+        "image": "live/jpeg/img60.bmp",
+        "gt_score": 65.94568,
+        "std": 2.722625711100326
+    },
+    {
+        "image": "live/jpeg/img62.bmp",
+        "gt_score": 43.936982,
+        "std": 3.5383029793830225
+    },
+    {
+        "image": "live/jpeg/img171.bmp",
+        "gt_score": 93.631586,
+        "std": 2.3673980657691747
+    },
+    {
+        "image": "live/jpeg/img192.bmp",
+        "gt_score": 18.738161,
+        "std": 2.495499466447168
+    },
+    {
+        "image": "live/jpeg/img205.bmp",
+        "gt_score": 23.553761,
+        "std": 3.5866830559363096
+    },
+    {
+        "image": "live/jpeg/img225.bmp",
+        "gt_score": 79.061562,
+        "std": 3.7385095442620386
+    },
+    {
+        "image": "live/wn/img36.bmp",
+        "gt_score": 40.562511,
+        "std": 2.536857192564833
+    },
+    {
+        "image": "live/wn/img48.bmp",
+        "gt_score": 77.271777,
+        "std": 2.335392337060769
+    },
+    {
+        "image": "live/wn/img102.bmp",
+        "gt_score": 61.580368,
+        "std": 2.876968807202124
+    },
+    {
+        "image": "live/wn/img121.bmp",
+        "gt_score": 35.683874,
+        "std": 3.011590976507298
+    },
+    {
+        "image": "live/wn/img136.bmp",
+        "gt_score": 5.601336,
+        "std": 2.065218418897199
+    },
+    {
+        "image": "live/gblur/img8.bmp",
+        "gt_score": 83.593781,
+        "std": 1.5552481749873166
+    },
+    {
+        "image": "live/gblur/img25.bmp",
+        "gt_score": 50.915604,
+        "std": 1.8770858518463862
+    },
+    {
+        "image": "live/gblur/img33.bmp",
+        "gt_score": 74.705024,
+        "std": 1.9034412406176267
+    },
+    {
+        "image": "live/gblur/img80.bmp",
+        "gt_score": 69.381035,
+        "std": 2.359836118641247
+    },
+    {
+        "image": "live/gblur/img137.bmp",
+        "gt_score": 94.024098,
+        "std": 1.8000736006243856
+    },
+    {
+        "image": "live/fastfading/img51.bmp",
+        "gt_score": 26.930639,
+        "std": 2.9519268338376077
+    },
+    {
+        "image": "live/fastfading/img52.bmp",
+        "gt_score": 9.104223,
+        "std": 2.2018292848094734
+    },
+    {
+        "image": "live/fastfading/img53.bmp",
+        "gt_score": 62.554824,
+        "std": 3.464605737687111
+    },
+    {
+        "image": "live/fastfading/img54.bmp",
+        "gt_score": 100.675604,
+        "std": 1.706059328837654
+    },
+    {
+        "image": "live/fastfading/img55.bmp",
+        "gt_score": 95.691284,
+        "std": 2.9001883762226464
+    },
+    {
+        "image": "live/jp2k/img18.bmp",
+        "gt_score": 82.382444,
+        "std": 2.1281480218326507
+    },
+    {
+        "image": "live/jp2k/img79.bmp",
+        "gt_score": 32.607257,
+        "std": 1.6392524977456093
+    },
+    {
+        "image": "live/jp2k/img108.bmp",
+        "gt_score": 68.113305,
+        "std": 2.5969207453125294
+    },
+    {
+        "image": "live/jp2k/img124.bmp",
+        "gt_score": 59.620064,
+        "std": 2.824871360866682
+    },
+    {
+        "image": "live/jp2k/img148.bmp",
+        "gt_score": 100.304955,
+        "std": 2.079414261881199
+    },
+    {
+        "image": "live/jp2k/img181.bmp",
+        "gt_score": 25.778888,
+        "std": 2.757412592711968
+    },
+    {
+        "image": "live/jpeg/img14.bmp",
+        "gt_score": 107.447837,
+        "std": 1.7776278919992186
+    },
+    {
+        "image": "live/jpeg/img80.bmp",
+        "gt_score": 43.996577,
+        "std": 2.9059702715219475
+    },
+    {
+        "image": "live/jpeg/img104.bmp",
+        "gt_score": 44.371912,
+        "std": 2.2892371460477925
+    },
+    {
+        "image": "live/jpeg/img176.bmp",
+        "gt_score": 21.766846,
+        "std": 1.9280346963119803
+    },
+    {
+        "image": "live/jpeg/img216.bmp",
+        "gt_score": 90.840624,
+        "std": 2.5633916960614163
+    },
+    {
+        "image": "live/wn/img14.bmp",
+        "gt_score": 96.999278,
+        "std": 2.3652042809743214
+    },
+    {
+        "image": "live/wn/img47.bmp",
+        "gt_score": 7.366677,
+        "std": 1.8291864047967001
+    },
+    {
+        "image": "live/wn/img71.bmp",
+        "gt_score": 48.315375,
+        "std": 1.7479047506625771
+    },
+    {
+        "image": "live/wn/img90.bmp",
+        "gt_score": 72.061227,
+        "std": 1.8627435483563792
+    },
+    {
+        "image": "live/wn/img135.bmp",
+        "gt_score": 44.135012,
+        "std": 2.2991046881278003
+    },
+    {
+        "image": "live/gblur/img6.bmp",
+        "gt_score": 56.978844,
+        "std": 1.8242234046791481
+    },
+    {
+        "image": "live/gblur/img27.bmp",
+        "gt_score": 79.319359,
+        "std": 2.4428979591287803
+    },
+    {
+        "image": "live/gblur/img52.bmp",
+        "gt_score": 43.234112,
+        "std": 1.6390298842523514
+    },
+    {
+        "image": "live/gblur/img59.bmp",
+        "gt_score": 68.549746,
+        "std": 1.9558464014740196
+    },
+    {
+        "image": "live/gblur/img95.bmp",
+        "gt_score": 94.618269,
+        "std": 1.2637741370305293
+    },
+    {
+        "image": "live/fastfading/img101.bmp",
+        "gt_score": 50.92496,
+        "std": 2.388123931671707
+    },
+    {
+        "image": "live/fastfading/img102.bmp",
+        "gt_score": 73.810763,
+        "std": 3.009389934191752
+    },
+    {
+        "image": "live/fastfading/img103.bmp",
+        "gt_score": 44.126685,
+        "std": 2.6143571792538722
+    },
+    {
+        "image": "live/fastfading/img104.bmp",
+        "gt_score": 102.2579,
+        "std": 2.007024960002839
+    },
+    {
+        "image": "live/fastfading/img105.bmp",
+        "gt_score": 98.906703,
+        "std": 1.8427295100311356
+    },
+    {
+        "image": "live/jp2k/img31.bmp",
+        "gt_score": 88.515906,
+        "std": 1.748306014038223
+    },
+    {
+        "image": "live/jp2k/img37.bmp",
+        "gt_score": 85.920444,
+        "std": 2.534981040961189
+    },
+    {
+        "image": "live/jp2k/img69.bmp",
+        "gt_score": 105.865019,
+        "std": 1.7423359627583637
+    },
+    {
+        "image": "live/jp2k/img120.bmp",
+        "gt_score": 71.436213,
+        "std": 2.5144703347394013
+    },
+    {
+        "image": "live/jp2k/img219.bmp",
+        "gt_score": 39.525602,
+        "std": 2.9609792853145285
+    },
+    {
+        "image": "live/jpeg/img8.bmp",
+        "gt_score": 97.429918,
+        "std": 2.6446998758866136
+    },
+    {
+        "image": "live/jpeg/img30.bmp",
+        "gt_score": 105.173317,
+        "std": 1.3527374543391228
+    },
+    {
+        "image": "live/jpeg/img98.bmp",
+        "gt_score": 91.903089,
+        "std": 2.957743526264003
+    },
+    {
+        "image": "live/jpeg/img143.bmp",
+        "gt_score": 104.93758,
+        "std": 2.4151567485142578
+    },
+    {
+        "image": "live/jpeg/img156.bmp",
+        "gt_score": 52.125505,
+        "std": 2.9762754362816874
+    },
+    {
+        "image": "live/jpeg/img164.bmp",
+        "gt_score": 3.002119,
+        "std": 3.252259841939146
+    },
+    {
+        "image": "live/jpeg/img194.bmp",
+        "gt_score": 77.168248,
+        "std": 2.920539651433121
+    },
+    {
+        "image": "live/wn/img21.bmp",
+        "gt_score": 50.093692,
+        "std": 2.5298880554017895
+    },
+    {
+        "image": "live/wn/img42.bmp",
+        "gt_score": 4.124363,
+        "std": 1.7956982796100016
+    },
+    {
+        "image": "live/wn/img99.bmp",
+        "gt_score": 99.63686,
+        "std": 2.1363097733169947
+    },
+    {
+        "image": "live/wn/img118.bmp",
+        "gt_score": 73.830586,
+        "std": 2.944993001150369
+    },
+    {
+        "image": "live/wn/img120.bmp",
+        "gt_score": 42.324969,
+        "std": 3.0478877795966706
+    },
+    {
+        "image": "live/gblur/img57.bmp",
+        "gt_score": 58.161422,
+        "std": 2.7568712876555725
+    },
+    {
+        "image": "live/gblur/img92.bmp",
+        "gt_score": 88.916183,
+        "std": 1.5102789187268693
+    },
+    {
+        "image": "live/gblur/img106.bmp",
+        "gt_score": 84.336551,
+        "std": 1.7474789512431663
+    },
+    {
+        "image": "live/gblur/img117.bmp",
+        "gt_score": 27.219051,
+        "std": 1.9714606038523592
+    },
+    {
+        "image": "live/gblur/img119.bmp",
+        "gt_score": 71.390059,
+        "std": 1.8165778472355079
+    },
+    {
+        "image": "live/fastfading/img6.bmp",
+        "gt_score": 49.855846,
+        "std": 3.532928485111395
+    },
+    {
+        "image": "live/fastfading/img7.bmp",
+        "gt_score": 60.222281,
+        "std": 3.751627275678651
+    },
+    {
+        "image": "live/fastfading/img8.bmp",
+        "gt_score": 28.626287,
+        "std": 3.6075979180579907
+    },
+    {
+        "image": "live/fastfading/img9.bmp",
+        "gt_score": 48.65073,
+        "std": 3.3040264347306105
+    },
+    {
+        "image": "live/fastfading/img10.bmp",
+        "gt_score": 105.841931,
+        "std": 2.2750658347201465
+    },
+    {
+        "image": "live/jp2k/img2.bmp",
+        "gt_score": 96.261739,
+        "std": 1.6294556597749836
+    },
+    {
+        "image": "live/jp2k/img34.bmp",
+        "gt_score": 103.161182,
+        "std": 1.669838891269479
+    },
+    {
+        "image": "live/jp2k/img60.bmp",
+        "gt_score": 48.397901,
+        "std": 2.0413714574914246
+    },
+    {
+        "image": "live/jp2k/img142.bmp",
+        "gt_score": 67.776991,
+        "std": 3.033969902950827
+    },
+    {
+        "image": "live/jp2k/img171.bmp",
+        "gt_score": 89.557229,
+        "std": 3.4214722909827726
+    },
+    {
+        "image": "live/jp2k/img218.bmp",
+        "gt_score": 43.81149,
+        "std": 3.811279498083092
+    },
+    {
+        "image": "live/jpeg/img45.bmp",
+        "gt_score": 77.335296,
+        "std": 3.284596770641428
+    },
+    {
+        "image": "live/jpeg/img53.bmp",
+        "gt_score": 101.54839,
+        "std": 2.9558738383581504
+    },
+    {
+        "image": "live/jpeg/img59.bmp",
+        "gt_score": 78.189156,
+        "std": 3.0575727852099313
+    },
+    {
+        "image": "live/jpeg/img127.bmp",
+        "gt_score": 21.705594,
+        "std": 2.383114540555449
+    },
+    {
+        "image": "live/jpeg/img180.bmp",
+        "gt_score": 20.528054,
+        "std": 2.2952102592918444
+    },
+    {
+        "image": "live/jpeg/img200.bmp",
+        "gt_score": 48.46708,
+        "std": 3.861012216061926
+    },
+    {
+        "image": "live/wn/img16.bmp",
+        "gt_score": 70.978745,
+        "std": 3.1972366904721694
+    },
+    {
+        "image": "live/wn/img19.bmp",
+        "gt_score": 98.279707,
+        "std": 2.068559712169406
+    },
+    {
+        "image": "live/wn/img44.bmp",
+        "gt_score": 38.929076,
+        "std": 3.6289907424272605
+    },
+    {
+        "image": "live/wn/img57.bmp",
+        "gt_score": 14.075117,
+        "std": 2.673410038495945
+    },
+    {
+        "image": "live/wn/img112.bmp",
+        "gt_score": 49.083736,
+        "std": 2.119029236445451
+    },
+    {
+        "image": "live/gblur/img20.bmp",
+        "gt_score": 70.306321,
+        "std": 2.245740505763918
+    },
+    {
+        "image": "live/gblur/img38.bmp",
+        "gt_score": 62.202112,
+        "std": 3.1136197471288596
+    },
+    {
+        "image": "live/gblur/img44.bmp",
+        "gt_score": 85.186457,
+        "std": 1.9688416856063966
+    },
+    {
+        "image": "live/gblur/img100.bmp",
+        "gt_score": 55.783696,
+        "std": 1.9330781648894442
+    },
+    {
+        "image": "live/gblur/img108.bmp",
+        "gt_score": 90.793482,
+        "std": 1.9825914298390337
+    },
+    {
+        "image": "live/fastfading/img46.bmp",
+        "gt_score": 27.420704,
+        "std": 3.238886798851759
+    },
+    {
+        "image": "live/fastfading/img47.bmp",
+        "gt_score": 12.733787,
+        "std": 2.027024004253147
+    },
+    {
+        "image": "live/fastfading/img48.bmp",
+        "gt_score": 54.657633,
+        "std": 3.488755211393321
+    },
+    {
+        "image": "live/fastfading/img49.bmp",
+        "gt_score": 98.45916,
+        "std": 3.0707170780852175
+    },
+    {
+        "image": "live/fastfading/img50.bmp",
+        "gt_score": 97.294077,
+        "std": 2.7747063316240057
+    },
+    {
+        "image": "live/jp2k/img14.bmp",
+        "gt_score": 66.095203,
+        "std": 2.89653390984239
+    },
+    {
+        "image": "live/jp2k/img40.bmp",
+        "gt_score": 35.993565,
+        "std": 2.4115967331354446
+    },
+    {
+        "image": "live/jp2k/img82.bmp",
+        "gt_score": 100.435639,
+        "std": 2.0920966720812957
+    },
+    {
+        "image": "live/jp2k/img196.bmp",
+        "gt_score": 49.039011,
+        "std": 3.0469817898643132
+    },
+    {
+        "image": "live/jp2k/img210.bmp",
+        "gt_score": 85.109285,
+        "std": 2.633904413720648
+    },
+    {
+        "image": "live/jp2k/img215.bmp",
+        "gt_score": 38.464621,
+        "std": 2.423414351017992
+    },
+    {
+        "image": "live/jpeg/img23.bmp",
+        "gt_score": 31.815246,
+        "std": 1.7452054819025948
+    },
+    {
+        "image": "live/jpeg/img56.bmp",
+        "gt_score": 79.764827,
+        "std": 3.074219335377136
+    },
+    {
+        "image": "live/jpeg/img91.bmp",
+        "gt_score": 32.799007,
+        "std": 2.590186266581008
+    },
+    {
+        "image": "live/jpeg/img152.bmp",
+        "gt_score": 56.730265,
+        "std": 3.9896374303903808
+    },
+    {
+        "image": "live/jpeg/img215.bmp",
+        "gt_score": 9.073872,
+        "std": 3.1397048108468253
+    },
+    {
+        "image": "live/jpeg/img228.bmp",
+        "gt_score": 95.991593,
+        "std": 3.7257355523891476
+    },
+    {
+        "image": "live/wn/img26.bmp",
+        "gt_score": 50.148552,
+        "std": 3.4336081408640475
+    },
+    {
+        "image": "live/wn/img39.bmp",
+        "gt_score": 40.014481,
+        "std": 1.9859399081506253
+    },
+    {
+        "image": "live/wn/img94.bmp",
+        "gt_score": 4.957104,
+        "std": 1.854614383649332
+    },
+    {
+        "image": "live/wn/img111.bmp",
+        "gt_score": 68.476677,
+        "std": 2.5673024055654925
+    },
+    {
+        "image": "live/wn/img142.bmp",
+        "gt_score": 88.408761,
+        "std": 2.8749657455916617
+    },
+    {
+        "image": "live/gblur/img23.bmp",
+        "gt_score": 91.955128,
+        "std": 1.7922023569227732
+    },
+    {
+        "image": "live/gblur/img39.bmp",
+        "gt_score": 76.611275,
+        "std": 2.3991024210411096
+    },
+    {
+        "image": "live/gblur/img81.bmp",
+        "gt_score": 65.264082,
+        "std": 2.0754952824460577
+    },
+    {
+        "image": "live/gblur/img110.bmp",
+        "gt_score": 68.181692,
+        "std": 1.8216023261071943
+    },
+    {
+        "image": "live/gblur/img116.bmp",
+        "gt_score": 25.500246,
+        "std": 2.371653802697252
+    },
+    {
+        "image": "live/fastfading/img21.bmp",
+        "gt_score": 33.37493,
+        "std": 2.906424772847812
+    },
+    {
+        "image": "live/fastfading/img22.bmp",
+        "gt_score": 49.185485,
+        "std": 3.767154345056687
+    },
+    {
+        "image": "live/fastfading/img23.bmp",
+        "gt_score": 64.743188,
+        "std": 3.227418955062686
+    },
+    {
+        "image": "live/fastfading/img24.bmp",
+        "gt_score": 57.381191,
+        "std": 2.510187826320524
+    },
+    {
+        "image": "live/fastfading/img25.bmp",
+        "gt_score": 98.125085,
+        "std": 3.3201203148056284
+    },
+    {
+        "image": "live/jp2k/img46.bmp",
+        "gt_score": 38.682952,
+        "std": 2.0347093381371795
+    },
+    {
+        "image": "live/jp2k/img48.bmp",
+        "gt_score": 34.449578,
+        "std": 1.8648146563915367
+    },
+    {
+        "image": "live/jp2k/img98.bmp",
+        "gt_score": 69.236135,
+        "std": 2.359314266888291
+    },
+    {
+        "image": "live/jp2k/img125.bmp",
+        "gt_score": 86.050773,
+        "std": 2.2087475131800747
+    },
+    {
+        "image": "live/jp2k/img178.bmp",
+        "gt_score": 54.386537,
+        "std": 3.0885492561240735
+    },
+    {
+        "image": "live/jpeg/img46.bmp",
+        "gt_score": 38.960272,
+        "std": 3.4871060159320875
+    },
+    {
+        "image": "live/jpeg/img55.bmp",
+        "gt_score": 78.534213,
+        "std": 2.1002603313548636
+    },
+    {
+        "image": "live/jpeg/img78.bmp",
+        "gt_score": 39.45046,
+        "std": 4.172001262784754
+    },
+    {
+        "image": "live/jpeg/img117.bmp",
+        "gt_score": 87.282001,
+        "std": 2.600426091851612
+    },
+    {
+        "image": "live/jpeg/img128.bmp",
+        "gt_score": 59.450766,
+        "std": 2.227041117454034
+    },
+    {
+        "image": "live/jpeg/img213.bmp",
+        "gt_score": 25.787529,
+        "std": 2.71759397282532
+    },
+    {
+        "image": "live/wn/img9.bmp",
+        "gt_score": 48.747246,
+        "std": 2.3904758879775834
+    },
+    {
+        "image": "live/wn/img23.bmp",
+        "gt_score": 2.14761,
+        "std": 2.3365549960730574
+    },
+    {
+        "image": "live/wn/img45.bmp",
+        "gt_score": 84.78506,
+        "std": 2.2661783932744233
+    },
+    {
+        "image": "live/wn/img63.bmp",
+        "gt_score": 70.739183,
+        "std": 2.2053189461564724
+    },
+    {
+        "image": "live/wn/img65.bmp",
+        "gt_score": 40.824705,
+        "std": 3.1553208037816463
+    },
+    {
+        "image": "live/gblur/img13.bmp",
+        "gt_score": 81.260248,
+        "std": 1.555964716980339
+    },
+    {
+        "image": "live/gblur/img83.bmp",
+        "gt_score": 47.039471,
+        "std": 1.8756951462645601
+    },
+    {
+        "image": "live/gblur/img109.bmp",
+        "gt_score": 68.126004,
+        "std": 1.628680913975531
+    },
+    {
+        "image": "live/gblur/img135.bmp",
+        "gt_score": 63.811472,
+        "std": 1.7730139063342016
+    },
+    {
+        "image": "live/gblur/img143.bmp",
+        "gt_score": 77.932463,
+        "std": 1.344143883670629
+    },
+    {
+        "image": "live/fastfading/img116.bmp",
+        "gt_score": 10.666441,
+        "std": 2.4406541814442306
+    },
+    {
+        "image": "live/fastfading/img117.bmp",
+        "gt_score": 33.558234,
+        "std": 2.7391242575062376
+    },
+    {
+        "image": "live/fastfading/img118.bmp",
+        "gt_score": 50.926057,
+        "std": 3.1351943888756497
+    },
+    {
+        "image": "live/fastfading/img119.bmp",
+        "gt_score": 103.458287,
+        "std": 1.9554300152977395
+    },
+    {
+        "image": "live/fastfading/img120.bmp",
+        "gt_score": 25.00191,
+        "std": 3.1285980626516863
+    }
+]

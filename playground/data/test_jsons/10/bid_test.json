@@ -1,0 +1,587 @@
+[
+    {
+        "image": "bid/DatabaseImage0096.JPG",
+        "gt_score": 2.801034,
+        "std": 1.541187
+    },
+    {
+        "image": "bid/DatabaseImage0079.JPG",
+        "gt_score": 4.299708,
+        "std": 0.621045
+    },
+    {
+        "image": "bid/DatabaseImage0323.JPG",
+        "gt_score": 4.093159,
+        "std": 0.681785
+    },
+    {
+        "image": "bid/DatabaseImage0312.JPG",
+        "gt_score": 3.445819,
+        "std": 1.167292
+    },
+    {
+        "image": "bid/DatabaseImage0240.JPG",
+        "gt_score": 1.872772,
+        "std": 1.285683
+    },
+    {
+        "image": "bid/DatabaseImage0261.JPG",
+        "gt_score": 4.919752,
+        "std": 0.185614
+    },
+    {
+        "image": "bid/DatabaseImage0282.JPG",
+        "gt_score": 4.482134,
+        "std": 0.487647
+    },
+    {
+        "image": "bid/DatabaseImage0040.JPG",
+        "gt_score": 3.52999,
+        "std": 1.1364
+    },
+    {
+        "image": "bid/DatabaseImage0231.JPG",
+        "gt_score": 3.919766,
+        "std": 0.772703
+    },
+    {
+        "image": "bid/DatabaseImage0173.JPG",
+        "gt_score": 4.444828,
+        "std": 0.520092
+    },
+    {
+        "image": "bid/DatabaseImage0050.JPG",
+        "gt_score": 3.040984,
+        "std": 1.40199
+    },
+    {
+        "image": "bid/DatabaseImage0018.JPG",
+        "gt_score": 4.203347,
+        "std": 0.989735
+    },
+    {
+        "image": "bid/DatabaseImage0160.JPG",
+        "gt_score": 2.348922,
+        "std": 1.094204
+    },
+    {
+        "image": "bid/DatabaseImage0107.JPG",
+        "gt_score": 2.3318,
+        "std": 1.069161
+    },
+    {
+        "image": "bid/DatabaseImage0389.JPG",
+        "gt_score": 1.657768,
+        "std": 0.503788
+    },
+    {
+        "image": "bid/DatabaseImage0403.JPG",
+        "gt_score": 2.839115,
+        "std": 0.760038
+    },
+    {
+        "image": "bid/DatabaseImage0562.JPG",
+        "gt_score": 4.051586,
+        "std": 1.024158
+    },
+    {
+        "image": "bid/DatabaseImage0503.JPG",
+        "gt_score": 2.61961,
+        "std": 0.859217
+    },
+    {
+        "image": "bid/DatabaseImage0275.JPG",
+        "gt_score": 4.660151,
+        "std": 0.322551
+    },
+    {
+        "image": "bid/DatabaseImage0279.JPG",
+        "gt_score": 0.802996,
+        "std": 0.75389
+    },
+    {
+        "image": "bid/DatabaseImage0270.JPG",
+        "gt_score": 4.653789,
+        "std": 0.449629
+    },
+    {
+        "image": "bid/DatabaseImage0362.JPG",
+        "gt_score": 4.246196,
+        "std": 0.879922
+    },
+    {
+        "image": "bid/DatabaseImage0046.JPG",
+        "gt_score": 3.166457,
+        "std": 0.708918
+    },
+    {
+        "image": "bid/DatabaseImage0416.JPG",
+        "gt_score": 1.430643,
+        "std": 0.780322
+    },
+    {
+        "image": "bid/DatabaseImage0267.JPG",
+        "gt_score": 3.228849,
+        "std": 0.725596
+    },
+    {
+        "image": "bid/DatabaseImage0229.JPG",
+        "gt_score": 2.961075,
+        "std": 0.764188
+    },
+    {
+        "image": "bid/DatabaseImage0283.JPG",
+        "gt_score": 3.889678,
+        "std": 0.961028
+    },
+    {
+        "image": "bid/DatabaseImage0265.JPG",
+        "gt_score": 1.203906,
+        "std": 0.489536
+    },
+    {
+        "image": "bid/DatabaseImage0214.JPG",
+        "gt_score": 1.948482,
+        "std": 0.778985
+    },
+    {
+        "image": "bid/DatabaseImage0009.JPG",
+        "gt_score": 3.705768,
+        "std": 1.471081
+    },
+    {
+        "image": "bid/DatabaseImage0513.JPG",
+        "gt_score": 4.012172,
+        "std": 1.000749
+    },
+    {
+        "image": "bid/DatabaseImage0036.JPG",
+        "gt_score": 2.520349,
+        "std": 1.086017
+    },
+    {
+        "image": "bid/DatabaseImage0153.JPG",
+        "gt_score": 2.882712,
+        "std": 0.978612
+    },
+    {
+        "image": "bid/DatabaseImage0322.JPG",
+        "gt_score": 3.551261,
+        "std": 0.703952
+    },
+    {
+        "image": "bid/DatabaseImage0111.JPG",
+        "gt_score": 1.604754,
+        "std": 0.673729
+    },
+    {
+        "image": "bid/DatabaseImage0364.JPG",
+        "gt_score": 3.718267,
+        "std": 1.054078
+    },
+    {
+        "image": "bid/DatabaseImage0152.JPG",
+        "gt_score": 2.987666,
+        "std": 1.265483
+    },
+    {
+        "image": "bid/DatabaseImage0266.JPG",
+        "gt_score": 3.810168,
+        "std": 0.779107
+    },
+    {
+        "image": "bid/DatabaseImage0210.JPG",
+        "gt_score": 0.273825,
+        "std": 0.476773
+    },
+    {
+        "image": "bid/DatabaseImage0587.JPG",
+        "gt_score": 4.759746,
+        "std": 0.375417
+    },
+    {
+        "image": "bid/DatabaseImage0578.JPG",
+        "gt_score": 4.23203,
+        "std": 0.63074
+    },
+    {
+        "image": "bid/DatabaseImage0557.JPG",
+        "gt_score": 2.820195,
+        "std": 0.869398
+    },
+    {
+        "image": "bid/DatabaseImage0468.JPG",
+        "gt_score": 1.720757,
+        "std": 1.016078
+    },
+    {
+        "image": "bid/DatabaseImage0398.JPG",
+        "gt_score": 3.142875,
+        "std": 1.390713
+    },
+    {
+        "image": "bid/DatabaseImage0161.JPG",
+        "gt_score": 4.479193,
+        "std": 0.617858
+    },
+    {
+        "image": "bid/DatabaseImage0486.JPG",
+        "gt_score": 4.524819,
+        "std": 0.484763
+    },
+    {
+        "image": "bid/DatabaseImage0450.JPG",
+        "gt_score": 3.853547,
+        "std": 0.747248
+    },
+    {
+        "image": "bid/DatabaseImage0055.JPG",
+        "gt_score": 3.063648,
+        "std": 1.016868
+    },
+    {
+        "image": "bid/DatabaseImage0007.JPG",
+        "gt_score": 3.721942,
+        "std": 0.851709
+    },
+    {
+        "image": "bid/DatabaseImage0348.JPG",
+        "gt_score": 4.051989,
+        "std": 0.73663
+    },
+    {
+        "image": "bid/DatabaseImage0349.JPG",
+        "gt_score": 4.609266,
+        "std": 0.484365
+    },
+    {
+        "image": "bid/DatabaseImage0039.JPG",
+        "gt_score": 3.539071,
+        "std": 0.95639
+    },
+    {
+        "image": "bid/DatabaseImage0373.JPG",
+        "gt_score": 4.421266,
+        "std": 0.515651
+    },
+    {
+        "image": "bid/DatabaseImage0407.JPG",
+        "gt_score": 2.966667,
+        "std": 0.772427
+    },
+    {
+        "image": "bid/DatabaseImage0313.JPG",
+        "gt_score": 3.291835,
+        "std": 0.789079
+    },
+    {
+        "image": "bid/DatabaseImage0062.JPG",
+        "gt_score": 3.349243,
+        "std": 1.327844
+    },
+    {
+        "image": "bid/DatabaseImage0025.JPG",
+        "gt_score": 4.18512,
+        "std": 1.159479
+    },
+    {
+        "image": "bid/DatabaseImage0316.JPG",
+        "gt_score": 4.479622,
+        "std": 0.698262
+    },
+    {
+        "image": "bid/DatabaseImage0130.JPG",
+        "gt_score": 3.192129,
+        "std": 1.032011
+    },
+    {
+        "image": "bid/DatabaseImage0276.JPG",
+        "gt_score": 4.80213,
+        "std": 0.352551
+    },
+    {
+        "image": "bid/DatabaseImage0071.JPG",
+        "gt_score": 1.809296,
+        "std": 1.132168
+    },
+    {
+        "image": "bid/DatabaseImage0232.JPG",
+        "gt_score": 2.737782,
+        "std": 0.953154
+    },
+    {
+        "image": "bid/DatabaseImage0533.JPG",
+        "gt_score": 0.827391,
+        "std": 0.461091
+    },
+    {
+        "image": "bid/DatabaseImage0386.JPG",
+        "gt_score": 3.997132,
+        "std": 1.184717
+    },
+    {
+        "image": "bid/DatabaseImage0535.JPG",
+        "gt_score": 4.025168,
+        "std": 0.885533
+    },
+    {
+        "image": "bid/DatabaseImage0581.JPG",
+        "gt_score": 4.530454,
+        "std": 0.973717
+    },
+    {
+        "image": "bid/DatabaseImage0426.JPG",
+        "gt_score": 4.323392,
+        "std": 0.707762
+    },
+    {
+        "image": "bid/DatabaseImage0302.JPG",
+        "gt_score": 3.231045,
+        "std": 0.705966
+    },
+    {
+        "image": "bid/DatabaseImage0119.JPG",
+        "gt_score": 2.409789,
+        "std": 1.246507
+    },
+    {
+        "image": "bid/DatabaseImage0252.JPG",
+        "gt_score": 0.441573,
+        "std": 0.481919
+    },
+    {
+        "image": "bid/DatabaseImage0539.JPG",
+        "gt_score": 0.327701,
+        "std": 0.341816
+    },
+    {
+        "image": "bid/DatabaseImage0368.JPG",
+        "gt_score": 4.021405,
+        "std": 0.648293
+    },
+    {
+        "image": "bid/DatabaseImage0360.JPG",
+        "gt_score": 4.772857,
+        "std": 0.643772
+    },
+    {
+        "image": "bid/DatabaseImage0347.JPG",
+        "gt_score": 2.922871,
+        "std": 0.640091
+    },
+    {
+        "image": "bid/DatabaseImage0198.JPG",
+        "gt_score": 3.447667,
+        "std": 0.891397
+    },
+    {
+        "image": "bid/DatabaseImage0125.JPG",
+        "gt_score": 3.742872,
+        "std": 0.615027
+    },
+    {
+        "image": "bid/DatabaseImage0021.JPG",
+        "gt_score": 1.710015,
+        "std": 0.76777
+    },
+    {
+        "image": "bid/DatabaseImage0388.JPG",
+        "gt_score": 3.317875,
+        "std": 0.849557
+    },
+    {
+        "image": "bid/DatabaseImage0461.JPG",
+        "gt_score": 3.479193,
+        "std": 1.452964
+    },
+    {
+        "image": "bid/DatabaseImage0335.JPG",
+        "gt_score": 2.880141,
+        "std": 1.103254
+    },
+    {
+        "image": "bid/DatabaseImage0024.JPG",
+        "gt_score": 3.549119,
+        "std": 0.656538
+    },
+    {
+        "image": "bid/DatabaseImage0164.JPG",
+        "gt_score": 4.15402,
+        "std": 0.695029
+    },
+    {
+        "image": "bid/DatabaseImage0172.JPG",
+        "gt_score": 4.124172,
+        "std": 0.576789
+    },
+    {
+        "image": "bid/DatabaseImage0565.JPG",
+        "gt_score": 4.163982,
+        "std": 0.544199
+    },
+    {
+        "image": "bid/DatabaseImage0178.JPG",
+        "gt_score": 3.078878,
+        "std": 0.930642
+    },
+    {
+        "image": "bid/DatabaseImage0112.JPG",
+        "gt_score": 3.247247,
+        "std": 0.777991
+    },
+    {
+        "image": "bid/DatabaseImage0309.JPG",
+        "gt_score": 2.637732,
+        "std": 0.766319
+    },
+    {
+        "image": "bid/DatabaseImage0063.JPG",
+        "gt_score": 4.823466,
+        "std": 0.251741
+    },
+    {
+        "image": "bid/DatabaseImage0375.JPG",
+        "gt_score": 3.887137,
+        "std": 0.780253
+    },
+    {
+        "image": "bid/DatabaseImage0128.JPG",
+        "gt_score": 2.331045,
+        "std": 1.249467
+    },
+    {
+        "image": "bid/DatabaseImage0227.JPG",
+        "gt_score": 1.70416,
+        "std": 0.93988
+    },
+    {
+        "image": "bid/DatabaseImage0467.JPG",
+        "gt_score": 1.904792,
+        "std": 0.633372
+    },
+    {
+        "image": "bid/DatabaseImage0108.JPG",
+        "gt_score": 2.783814,
+        "std": 1.11198
+    },
+    {
+        "image": "bid/DatabaseImage0236.JPG",
+        "gt_score": 1.577554,
+        "std": 1.00717
+    },
+    {
+        "image": "bid/DatabaseImage0505.JPG",
+        "gt_score": 4.013356,
+        "std": 0.882464
+    },
+    {
+        "image": "bid/DatabaseImage0277.JPG",
+        "gt_score": 3.417402,
+        "std": 0.996205
+    },
+    {
+        "image": "bid/DatabaseImage0184.JPG",
+        "gt_score": 3.796178,
+        "std": 0.965907
+    },
+    {
+        "image": "bid/DatabaseImage0358.JPG",
+        "gt_score": 0.682842,
+        "std": 0.490131
+    },
+    {
+        "image": "bid/DatabaseImage0585.JPG",
+        "gt_score": 3.995586,
+        "std": 0.825756
+    },
+    {
+        "image": "bid/DatabaseImage0262.JPG",
+        "gt_score": 0.495661,
+        "std": 0.51572
+    },
+    {
+        "image": "bid/DatabaseImage0354.JPG",
+        "gt_score": 4.200147,
+        "std": 1.094841
+    },
+    {
+        "image": "bid/DatabaseImage0113.JPG",
+        "gt_score": 3.837316,
+        "std": 0.996387
+    },
+    {
+        "image": "bid/DatabaseImage0584.JPG",
+        "gt_score": 4.708356,
+        "std": 0.322526
+    },
+    {
+        "image": "bid/DatabaseImage0343.JPG",
+        "gt_score": 1.903298,
+        "std": 0.863569
+    },
+    {
+        "image": "bid/DatabaseImage0385.JPG",
+        "gt_score": 3.2313,
+        "std": 0.81909
+    },
+    {
+        "image": "bid/DatabaseImage0491.JPG",
+        "gt_score": 0.95958,
+        "std": 0.887364
+    },
+    {
+        "image": "bid/DatabaseImage0477.JPG",
+        "gt_score": 3.548552,
+        "std": 0.945586
+    },
+    {
+        "image": "bid/DatabaseImage0415.JPG",
+        "gt_score": 2.161172,
+        "std": 1.033978
+    },
+    {
+        "image": "bid/DatabaseImage0459.JPG",
+        "gt_score": 1.14628,
+        "std": 0.767021
+    },
+    {
+        "image": "bid/DatabaseImage0372.JPG",
+        "gt_score": 4.49255,
+        "std": 0.50363
+    },
+    {
+        "image": "bid/DatabaseImage0443.JPG",
+        "gt_score": 4.898983,
+        "std": 0.201383
+    },
+    {
+        "image": "bid/DatabaseImage0181.JPG",
+        "gt_score": 1.3656,
+        "std": 0.832566
+    },
+    {
+        "image": "bid/DatabaseImage0494.JPG",
+        "gt_score": 4.361565,
+        "std": 0.867961
+    },
+    {
+        "image": "bid/DatabaseImage0463.JPG",
+        "gt_score": 4.234519,
+        "std": 0.70158
+    },
+    {
+        "image": "bid/DatabaseImage0026.JPG",
+        "gt_score": 0.205564,
+        "std": 0.219934
+    },
+    {
+        "image": "bid/DatabaseImage0042.JPG",
+        "gt_score": 3.938482,
+        "std": 0.902959
+    },
+    {
+        "image": "bid/DatabaseImage0099.JPG",
+        "gt_score": 3.338588,
+        "std": 1.505803
+    }
+]

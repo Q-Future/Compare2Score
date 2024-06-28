@@ -1,0 +1,1167 @@
+[
+    {
+        "image": "livec/815.JPG",
+        "gt_score": 32.456376,
+        "std": 24.130972
+    },
+    {
+        "image": "livec/674.JPG",
+        "gt_score": 68.111675,
+        "std": 19.365647
+    },
+    {
+        "image": "livec/146.bmp",
+        "gt_score": 34.21118,
+        "std": 19.911809
+    },
+    {
+        "image": "livec/62.bmp",
+        "gt_score": 54.459459,
+        "std": 22.021475
+    },
+    {
+        "image": "livec/1102.JPG",
+        "gt_score": 64.369458,
+        "std": 23.787351
+    },
+    {
+        "image": "livec/358.bmp",
+        "gt_score": 50.668478,
+        "std": 20.500137
+    },
+    {
+        "image": "livec/111.bmp",
+        "gt_score": 51.84153,
+        "std": 21.84516
+    },
+    {
+        "image": "livec/738.JPG",
+        "gt_score": 69.42328,
+        "std": 21.151698
+    },
+    {
+        "image": "livec/806.JPG",
+        "gt_score": 85.977143,
+        "std": 14.688706
+    },
+    {
+        "image": "livec/880.JPG",
+        "gt_score": 65.083333,
+        "std": 20.272815
+    },
+    {
+        "image": "livec/1072.JPG",
+        "gt_score": 75.252874,
+        "std": 21.804819
+    },
+    {
+        "image": "livec/500.bmp",
+        "gt_score": 68.452703,
+        "std": 18.060493
+    },
+    {
+        "image": "livec/759.JPG",
+        "gt_score": 75.47093,
+        "std": 17.601644
+    },
+    {
+        "image": "livec/187.bmp",
+        "gt_score": 28.711957,
+        "std": 17.144473
+    },
+    {
+        "image": "livec/166.bmp",
+        "gt_score": 49.795812,
+        "std": 20.884776
+    },
+    {
+        "image": "livec/686.JPG",
+        "gt_score": 29.475676,
+        "std": 18.198205
+    },
+    {
+        "image": "livec/271.bmp",
+        "gt_score": 83.061728,
+        "std": 15.285153
+    },
+    {
+        "image": "livec/269.bmp",
+        "gt_score": 62.079365,
+        "std": 20.795587
+    },
+    {
+        "image": "livec/941.JPG",
+        "gt_score": 60.54717,
+        "std": 21.513228
+    },
+    {
+        "image": "livec/697.JPG",
+        "gt_score": 48.02,
+        "std": 24.403839
+    },
+    {
+        "image": "livec/341.bmp",
+        "gt_score": 8.932961,
+        "std": 10.236308
+    },
+    {
+        "image": "livec/604.JPG",
+        "gt_score": 74.628931,
+        "std": 18.160868
+    },
+    {
+        "image": "livec/231.bmp",
+        "gt_score": 45.371069,
+        "std": 23.687991
+    },
+    {
+        "image": "livec/469.bmp",
+        "gt_score": 58.546667,
+        "std": 21.845272
+    },
+    {
+        "image": "livec/830.JPG",
+        "gt_score": 77.357616,
+        "std": 17.238849
+    },
+    {
+        "image": "livec/441.bmp",
+        "gt_score": 65.838323,
+        "std": 19.956977
+    },
+    {
+        "image": "livec/733.JPG",
+        "gt_score": 19.644068,
+        "std": 17.484827
+    },
+    {
+        "image": "livec/328.bmp",
+        "gt_score": 82.539394,
+        "std": 16.901615
+    },
+    {
+        "image": "livec/583.JPG",
+        "gt_score": 58.395349,
+        "std": 21.045636
+    },
+    {
+        "image": "livec/100.bmp",
+        "gt_score": 32.561075,
+        "std": 19.124726
+    },
+    {
+        "image": "livec/866.JPG",
+        "gt_score": 80.695238,
+        "std": 17.049954
+    },
+    {
+        "image": "livec/107.bmp",
+        "gt_score": 27.957534,
+        "std": 15.527478
+    },
+    {
+        "image": "livec/1056.JPG",
+        "gt_score": 39.626582,
+        "std": 21.859856
+    },
+    {
+        "image": "livec/931.JPG",
+        "gt_score": 59.431953,
+        "std": 18.637115
+    },
+    {
+        "image": "livec/546.JPG",
+        "gt_score": 78.53012,
+        "std": 16.89349
+    },
+    {
+        "image": "livec/527.bmp",
+        "gt_score": 71.882353,
+        "std": 21.103247
+    },
+    {
+        "image": "livec/190.bmp",
+        "gt_score": 31.729469,
+        "std": 18.192185
+    },
+    {
+        "image": "livec/59.bmp",
+        "gt_score": 44.730769,
+        "std": 26.21625
+    },
+    {
+        "image": "livec/127.bmp",
+        "gt_score": 41.426901,
+        "std": 19.909181
+    },
+    {
+        "image": "livec/91.bmp",
+        "gt_score": 66.616667,
+        "std": 19.688432
+    },
+    {
+        "image": "livec/141.bmp",
+        "gt_score": 20.581818,
+        "std": 20.737933
+    },
+    {
+        "image": "livec/1125.JPG",
+        "gt_score": 61.606218,
+        "std": 20.11815
+    },
+    {
+        "image": "livec/446.bmp",
+        "gt_score": 13.125683,
+        "std": 15.60116
+    },
+    {
+        "image": "livec/430.bmp",
+        "gt_score": 62.614973,
+        "std": 19.064728
+    },
+    {
+        "image": "livec/1119.JPG",
+        "gt_score": 57.430939,
+        "std": 21.590428
+    },
+    {
+        "image": "livec/671.JPG",
+        "gt_score": 6.224242,
+        "std": 13.595799
+    },
+    {
+        "image": "livec/1103.JPG",
+        "gt_score": 57.701087,
+        "std": 21.390535
+    },
+    {
+        "image": "livec/457.bmp",
+        "gt_score": 44.447115,
+        "std": 17.774407
+    },
+    {
+        "image": "livec/926.JPG",
+        "gt_score": 49.099476,
+        "std": 20.558403
+    },
+    {
+        "image": "livec/997.JPG",
+        "gt_score": 65.449704,
+        "std": 20.463938
+    },
+    {
+        "image": "livec/221.bmp",
+        "gt_score": 84.160221,
+        "std": 16.03821
+    },
+    {
+        "image": "livec/249.bmp",
+        "gt_score": 73.184783,
+        "std": 18.360643
+    },
+    {
+        "image": "livec/915.JPG",
+        "gt_score": 77.246073,
+        "std": 18.21443
+    },
+    {
+        "image": "livec/925.JPG",
+        "gt_score": 47.33125,
+        "std": 20.784828
+    },
+    {
+        "image": "livec/503.bmp",
+        "gt_score": 27.204678,
+        "std": 15.787157
+    },
+    {
+        "image": "livec/780.JPG",
+        "gt_score": 92.431953,
+        "std": 12.038002
+    },
+    {
+        "image": "livec/798.JPG",
+        "gt_score": 61.055556,
+        "std": 24.174113
+    },
+    {
+        "image": "livec/365.bmp",
+        "gt_score": 43.882682,
+        "std": 24.366875
+    },
+    {
+        "image": "livec/641.JPG",
+        "gt_score": 45.509091,
+        "std": 19.545013
+    },
+    {
+        "image": "livec/396.bmp",
+        "gt_score": 68.148515,
+        "std": 19.325382
+    },
+    {
+        "image": "livec/197.bmp",
+        "gt_score": 55.482353,
+        "std": 23.602282
+    },
+    {
+        "image": "livec/321.bmp",
+        "gt_score": 44.262857,
+        "std": 20.015498
+    },
+    {
+        "image": "livec/275.bmp",
+        "gt_score": 47.027322,
+        "std": 25.040721
+    },
+    {
+        "image": "livec/543.JPG",
+        "gt_score": 68.055556,
+        "std": 19.497805
+    },
+    {
+        "image": "livec/232.bmp",
+        "gt_score": 81.768786,
+        "std": 16.770467
+    },
+    {
+        "image": "livec/241.bmp",
+        "gt_score": 59.45,
+        "std": 21.337893
+    },
+    {
+        "image": "livec/1137.JPG",
+        "gt_score": 77.017143,
+        "std": 18.348001
+    },
+    {
+        "image": "livec/309.bmp",
+        "gt_score": 19.376404,
+        "std": 15.094389
+    },
+    {
+        "image": "livec/566.JPG",
+        "gt_score": 74.339394,
+        "std": 18.400854
+    },
+    {
+        "image": "livec/702.JPG",
+        "gt_score": 4.343915,
+        "std": 13.052807
+    },
+    {
+        "image": "livec/605.JPG",
+        "gt_score": 50.95082,
+        "std": 20.045081
+    },
+    {
+        "image": "livec/95.bmp",
+        "gt_score": 75.329412,
+        "std": 18.223717
+    },
+    {
+        "image": "livec/881.JPG",
+        "gt_score": 43.273632,
+        "std": 20.942057
+    },
+    {
+        "image": "livec/707.JPG",
+        "gt_score": 18.006061,
+        "std": 15.623035
+    },
+    {
+        "image": "livec/1095.JPG",
+        "gt_score": 76.264249,
+        "std": 18.740487
+    },
+    {
+        "image": "livec/742.JPG",
+        "gt_score": 5.658683,
+        "std": 10.849892
+    },
+    {
+        "image": "livec/440.bmp",
+        "gt_score": 60.210811,
+        "std": 20.538773
+    },
+    {
+        "image": "livec/34.bmp",
+        "gt_score": 34.255435,
+        "std": 20.230231
+    },
+    {
+        "image": "livec/947.JPG",
+        "gt_score": 77.450617,
+        "std": 19.025662
+    },
+    {
+        "image": "livec/877.JPG",
+        "gt_score": 87.847826,
+        "std": 14.675309
+    },
+    {
+        "image": "livec/55.bmp",
+        "gt_score": 83.283422,
+        "std": 15.882292
+    },
+    {
+        "image": "livec/1045.JPG",
+        "gt_score": 80.483516,
+        "std": 17.522748
+    },
+    {
+        "image": "livec/987.JPG",
+        "gt_score": 81.036649,
+        "std": 18.3866
+    },
+    {
+        "image": "livec/519.bmp",
+        "gt_score": 62.566138,
+        "std": 19.16341
+    },
+    {
+        "image": "livec/342.bmp",
+        "gt_score": 67.686813,
+        "std": 18.793608
+    },
+    {
+        "image": "livec/688.JPG",
+        "gt_score": 66.790323,
+        "std": 20.961074
+    },
+    {
+        "image": "livec/374.bmp",
+        "gt_score": 43.187166,
+        "std": 19.419596
+    },
+    {
+        "image": "livec/789.JPG",
+        "gt_score": 74.517241,
+        "std": 18.466568
+    },
+    {
+        "image": "livec/754.JPG",
+        "gt_score": 44.142857,
+        "std": 23.840317
+    },
+    {
+        "image": "livec/44.bmp",
+        "gt_score": 72.039216,
+        "std": 20.017717
+    },
+    {
+        "image": "livec/685.JPG",
+        "gt_score": 60.097561,
+        "std": 18.784284
+    },
+    {
+        "image": "livec/906.JPG",
+        "gt_score": 63.87027,
+        "std": 19.88457
+    },
+    {
+        "image": "livec/179.bmp",
+        "gt_score": 66.108434,
+        "std": 24.305636
+    },
+    {
+        "image": "livec/784.JPG",
+        "gt_score": 82.975904,
+        "std": 16.49314
+    },
+    {
+        "image": "livec/123.bmp",
+        "gt_score": 67.297753,
+        "std": 20.488004
+    },
+    {
+        "image": "livec/672.JPG",
+        "gt_score": 9.909677,
+        "std": 12.287872
+    },
+    {
+        "image": "livec/103.bmp",
+        "gt_score": 39.234559,
+        "std": 19.338947
+    },
+    {
+        "image": "livec/991.JPG",
+        "gt_score": 37.425121,
+        "std": 18.593844
+    },
+    {
+        "image": "livec/12.bmp",
+        "gt_score": 15.895238,
+        "std": 15.255667
+    },
+    {
+        "image": "livec/477.bmp",
+        "gt_score": 75.522222,
+        "std": 18.979688
+    },
+    {
+        "image": "livec/810.JPG",
+        "gt_score": 59.936047,
+        "std": 20.356802
+    },
+    {
+        "image": "livec/930.JPG",
+        "gt_score": 50.350877,
+        "std": 22.130223
+    },
+    {
+        "image": "livec/704.JPG",
+        "gt_score": 17.022989,
+        "std": 16.279692
+    },
+    {
+        "image": "livec/174.bmp",
+        "gt_score": 72.91,
+        "std": 19.756861
+    },
+    {
+        "image": "livec/945.JPG",
+        "gt_score": 70.295455,
+        "std": 18.964423
+    },
+    {
+        "image": "livec/701.JPG",
+        "gt_score": 17.4875,
+        "std": 20.307692
+    },
+    {
+        "image": "livec/97.bmp",
+        "gt_score": 56.355556,
+        "std": 19.334348
+    },
+    {
+        "image": "livec/45.bmp",
+        "gt_score": 56.095238,
+        "std": 22.823782
+    },
+    {
+        "image": "livec/822.JPG",
+        "gt_score": 24.936842,
+        "std": 18.15064
+    },
+    {
+        "image": "livec/642.JPG",
+        "gt_score": 49.171429,
+        "std": 20.934882
+    },
+    {
+        "image": "livec/743.JPG",
+        "gt_score": 72.952128,
+        "std": 18.528857
+    },
+    {
+        "image": "livec/426.bmp",
+        "gt_score": 67.401198,
+        "std": 20.619928
+    },
+    {
+        "image": "livec/157.bmp",
+        "gt_score": 17.519231,
+        "std": 16.807245
+    },
+    {
+        "image": "livec/849.JPG",
+        "gt_score": 80.981707,
+        "std": 16.472871
+    },
+    {
+        "image": "livec/150.bmp",
+        "gt_score": 65.796178,
+        "std": 19.650386
+    },
+    {
+        "image": "livec/472.bmp",
+        "gt_score": 53.779874,
+        "std": 23.623001
+    },
+    {
+        "image": "livec/720.JPG",
+        "gt_score": 62.108808,
+        "std": 21.809869
+    },
+    {
+        "image": "livec/551.JPG",
+        "gt_score": 77.288043,
+        "std": 17.992976
+    },
+    {
+        "image": "livec/115.bmp",
+        "gt_score": 31.293785,
+        "std": 19.075616
+    },
+    {
+        "image": "livec/43.bmp",
+        "gt_score": 18.477707,
+        "std": 15.407951
+    },
+    {
+        "image": "livec/630.JPG",
+        "gt_score": 55.993902,
+        "std": 21.813346
+    },
+    {
+        "image": "livec/825.JPG",
+        "gt_score": 44.469274,
+        "std": 20.639302
+    },
+    {
+        "image": "livec/755.JPG",
+        "gt_score": 64.961957,
+        "std": 20.543002
+    },
+    {
+        "image": "livec/653.JPG",
+        "gt_score": 15.647399,
+        "std": 14.843269
+    },
+    {
+        "image": "livec/35.bmp",
+        "gt_score": 34.379888,
+        "std": 21.648646
+    },
+    {
+        "image": "livec/781.JPG",
+        "gt_score": 88.917582,
+        "std": 11.579598
+    },
+    {
+        "image": "livec/201.bmp",
+        "gt_score": 49.5,
+        "std": 20.479121
+    },
+    {
+        "image": "livec/744.JPG",
+        "gt_score": 69.4,
+        "std": 19.198139
+    },
+    {
+        "image": "livec/281.bmp",
+        "gt_score": 43.570588,
+        "std": 20.770891
+    },
+    {
+        "image": "livec/7.bmp",
+        "gt_score": 4.937824,
+        "std": 9.353936
+    },
+    {
+        "image": "livec/975.JPG",
+        "gt_score": 56.695906,
+        "std": 23.248553
+    },
+    {
+        "image": "livec/954.JPG",
+        "gt_score": 62.79558,
+        "std": 20.066478
+    },
+    {
+        "image": "livec/602.JPG",
+        "gt_score": 42.76506,
+        "std": 20.803239
+    },
+    {
+        "image": "livec/796.JPG",
+        "gt_score": 68.548387,
+        "std": 20.062344
+    },
+    {
+        "image": "livec/433.bmp",
+        "gt_score": 34.496855,
+        "std": 18.211095
+    },
+    {
+        "image": "livec/130.bmp",
+        "gt_score": 86.608696,
+        "std": 13.664166
+    },
+    {
+        "image": "livec/507.bmp",
+        "gt_score": 78.803681,
+        "std": 15.741688
+    },
+    {
+        "image": "livec/1029.JPG",
+        "gt_score": 81.516129,
+        "std": 16.615273
+    },
+    {
+        "image": "livec/64.bmp",
+        "gt_score": 41.860759,
+        "std": 18.152738
+    },
+    {
+        "image": "livec/485.bmp",
+        "gt_score": 53.860104,
+        "std": 22.212424
+    },
+    {
+        "image": "livec/77.bmp",
+        "gt_score": 71.521472,
+        "std": 19.892718
+    },
+    {
+        "image": "livec/646.JPG",
+        "gt_score": 59.364641,
+        "std": 19.3781
+    },
+    {
+        "image": "livec/479.bmp",
+        "gt_score": 66.014493,
+        "std": 20.84885
+    },
+    {
+        "image": "livec/972.JPG",
+        "gt_score": 68.85443,
+        "std": 20.152231
+    },
+    {
+        "image": "livec/711.JPG",
+        "gt_score": 57.926136,
+        "std": 23.146989
+    },
+    {
+        "image": "livec/251.bmp",
+        "gt_score": 61.777174,
+        "std": 17.810457
+    },
+    {
+        "image": "livec/620.JPG",
+        "gt_score": 48.856287,
+        "std": 24.756714
+    },
+    {
+        "image": "livec/161.bmp",
+        "gt_score": 8.246835,
+        "std": 10.488506
+    },
+    {
+        "image": "livec/628.JPG",
+        "gt_score": 31.77027,
+        "std": 16.058606
+    },
+    {
+        "image": "livec/547.JPG",
+        "gt_score": 21.235602,
+        "std": 16.523094
+    },
+    {
+        "image": "livec/1001.JPG",
+        "gt_score": 53.557471,
+        "std": 19.628475
+    },
+    {
+        "image": "livec/578.JPG",
+        "gt_score": 78.103825,
+        "std": 17.801257
+    },
+    {
+        "image": "livec/492.bmp",
+        "gt_score": 62.806283,
+        "std": 19.866904
+    },
+    {
+        "image": "livec/967.JPG",
+        "gt_score": 72.842857,
+        "std": 20.168882
+    },
+    {
+        "image": "livec/388.bmp",
+        "gt_score": 58.376471,
+        "std": 22.224235
+    },
+    {
+        "image": "livec/834.JPG",
+        "gt_score": 66.664773,
+        "std": 20.683634
+    },
+    {
+        "image": "livec/1096.JPG",
+        "gt_score": 86.060109,
+        "std": 13.93516
+    },
+    {
+        "image": "livec/18.bmp",
+        "gt_score": 64.551913,
+        "std": 21.059473
+    },
+    {
+        "image": "livec/1083.JPG",
+        "gt_score": 70.267045,
+        "std": 19.216726
+    },
+    {
+        "image": "livec/939.JPG",
+        "gt_score": 67.615,
+        "std": 20.508039
+    },
+    {
+        "image": "livec/594.JPG",
+        "gt_score": 68.808642,
+        "std": 18.727047
+    },
+    {
+        "image": "livec/1079.JPG",
+        "gt_score": 26.661017,
+        "std": 17.649952
+    },
+    {
+        "image": "livec/450.bmp",
+        "gt_score": 63.196319,
+        "std": 19.481824
+    },
+    {
+        "image": "livec/647.JPG",
+        "gt_score": 66.994475,
+        "std": 23.350588
+    },
+    {
+        "image": "livec/460.bmp",
+        "gt_score": 6.043269,
+        "std": 10.75296
+    },
+    {
+        "image": "livec/820.JPG",
+        "gt_score": 78.331361,
+        "std": 18.334758
+    },
+    {
+        "image": "livec/799.JPG",
+        "gt_score": 69.615385,
+        "std": 19.050956
+    },
+    {
+        "image": "livec/1073.JPG",
+        "gt_score": 74.747312,
+        "std": 17.78112
+    },
+    {
+        "image": "livec/592.JPG",
+        "gt_score": 57.854922,
+        "std": 21.4092
+    },
+    {
+        "image": "livec/541.JPG",
+        "gt_score": 52.551913,
+        "std": 24.73944
+    },
+    {
+        "image": "livec/656.JPG",
+        "gt_score": 54.193717,
+        "std": 19.486005
+    },
+    {
+        "image": "livec/349.bmp",
+        "gt_score": 69.283333,
+        "std": 19.264195
+    },
+    {
+        "image": "livec/570.JPG",
+        "gt_score": 43.118919,
+        "std": 19.770062
+    },
+    {
+        "image": "livec/665.JPG",
+        "gt_score": 60.04321,
+        "std": 23.502702
+    },
+    {
+        "image": "livec/28.bmp",
+        "gt_score": 61.013514,
+        "std": 21.19748
+    },
+    {
+        "image": "livec/889.JPG",
+        "gt_score": 28.175824,
+        "std": 17.400447
+    },
+    {
+        "image": "livec/988.JPG",
+        "gt_score": 54.803468,
+        "std": 22.698647
+    },
+    {
+        "image": "livec/961.JPG",
+        "gt_score": 4.807453,
+        "std": 10.612207
+    },
+    {
+        "image": "livec/856.JPG",
+        "gt_score": 20.834286,
+        "std": 17.834519
+    },
+    {
+        "image": "livec/268.bmp",
+        "gt_score": 75.641618,
+        "std": 17.655584
+    },
+    {
+        "image": "livec/1143.JPG",
+        "gt_score": 61.105556,
+        "std": 20.486676
+    },
+    {
+        "image": "livec/4.bmp",
+        "gt_score": 31.978314,
+        "std": 18.272005
+    },
+    {
+        "image": "livec/601.JPG",
+        "gt_score": 60.946237,
+        "std": 19.42685
+    },
+    {
+        "image": "livec/399.bmp",
+        "gt_score": 65.921875,
+        "std": 20.370627
+    },
+    {
+        "image": "livec/971.JPG",
+        "gt_score": 80.100559,
+        "std": 16.888296
+    },
+    {
+        "image": "livec/1161.bmp",
+        "gt_score": 11.900285,
+        "std": 12.982505
+    },
+    {
+        "image": "livec/644.JPG",
+        "gt_score": 35.37931,
+        "std": 23.851051
+    },
+    {
+        "image": "livec/1014.JPG",
+        "gt_score": 58.809524,
+        "std": 25.612953
+    },
+    {
+        "image": "livec/392.bmp",
+        "gt_score": 81.840491,
+        "std": 17.76073
+    },
+    {
+        "image": "livec/230.bmp",
+        "gt_score": 43.247126,
+        "std": 19.122721
+    },
+    {
+        "image": "livec/994.JPG",
+        "gt_score": 65.460674,
+        "std": 20.443145
+    },
+    {
+        "image": "livec/224.bmp",
+        "gt_score": 14.638298,
+        "std": 13.500922
+    },
+    {
+        "image": "livec/927.JPG",
+        "gt_score": 57.721925,
+        "std": 20.33292
+    },
+    {
+        "image": "livec/695.JPG",
+        "gt_score": 27.660819,
+        "std": 17.313091
+    },
+    {
+        "image": "livec/60.bmp",
+        "gt_score": 74.183333,
+        "std": 18.480996
+    },
+    {
+        "image": "livec/245.bmp",
+        "gt_score": 10.727273,
+        "std": 11.160888
+    },
+    {
+        "image": "livec/1155.JPG",
+        "gt_score": 74.362637,
+        "std": 20.64834
+    },
+    {
+        "image": "livec/1162.bmp",
+        "gt_score": 62.661712,
+        "std": 20.502336
+    },
+    {
+        "image": "livec/1140.JPG",
+        "gt_score": 51.902062,
+        "std": 19.79783
+    },
+    {
+        "image": "livec/122.bmp",
+        "gt_score": 79.367089,
+        "std": 17.246196
+    },
+    {
+        "image": "livec/1084.JPG",
+        "gt_score": 78.185629,
+        "std": 17.277544
+    },
+    {
+        "image": "livec/402.bmp",
+        "gt_score": 76.845638,
+        "std": 16.833334
+    },
+    {
+        "image": "livec/1051.JPG",
+        "gt_score": 57.327485,
+        "std": 20.408427
+    },
+    {
+        "image": "livec/596.JPG",
+        "gt_score": 49.408284,
+        "std": 19.872634
+    },
+    {
+        "image": "livec/497.bmp",
+        "gt_score": 32.561111,
+        "std": 17.155928
+    },
+    {
+        "image": "livec/455.bmp",
+        "gt_score": 75.576531,
+        "std": 19.746321
+    },
+    {
+        "image": "livec/164.bmp",
+        "gt_score": 80.5,
+        "std": 17.218832
+    },
+    {
+        "image": "livec/993.JPG",
+        "gt_score": 46.769231,
+        "std": 20.181813
+    },
+    {
+        "image": "livec/338.bmp",
+        "gt_score": 86.602151,
+        "std": 14.916082
+    },
+    {
+        "image": "livec/762.JPG",
+        "gt_score": 74.397516,
+        "std": 18.934849
+    },
+    {
+        "image": "livec/1144.JPG",
+        "gt_score": 71.272109,
+        "std": 17.82278
+    },
+    {
+        "image": "livec/263.bmp",
+        "gt_score": 27.153846,
+        "std": 22.451005
+    },
+    {
+        "image": "livec/379.bmp",
+        "gt_score": 61.316667,
+        "std": 18.144816
+    },
+    {
+        "image": "livec/114.bmp",
+        "gt_score": 24.871134,
+        "std": 16.164276
+    },
+    {
+        "image": "livec/968.JPG",
+        "gt_score": 65.039474,
+        "std": 22.495881
+    },
+    {
+        "image": "livec/25.bmp",
+        "gt_score": 71.900585,
+        "std": 21.543023
+    },
+    {
+        "image": "livec/636.JPG",
+        "gt_score": 64.518072,
+        "std": 20.007187
+    },
+    {
+        "image": "livec/226.bmp",
+        "gt_score": 49.475676,
+        "std": 20.550328
+    },
+    {
+        "image": "livec/839.JPG",
+        "gt_score": 22.707602,
+        "std": 23.666231
+    },
+    {
+        "image": "livec/467.bmp",
+        "gt_score": 57.644444,
+        "std": 22.671968
+    },
+    {
+        "image": "livec/261.bmp",
+        "gt_score": 85.216374,
+        "std": 15.579963
+    },
+    {
+        "image": "livec/935.JPG",
+        "gt_score": 70.521472,
+        "std": 19.644789
+    },
+    {
+        "image": "livec/528.bmp",
+        "gt_score": 70.048193,
+        "std": 19.411277
+    },
+    {
+        "image": "livec/495.bmp",
+        "gt_score": 57.097561,
+        "std": 21.800889
+    },
+    {
+        "image": "livec/1160.bmp",
+        "gt_score": 21.685859,
+        "std": 15.114777
+    },
+    {
+        "image": "livec/415.bmp",
+        "gt_score": 16.904192,
+        "std": 18.065221
+    },
+    {
+        "image": "livec/844.JPG",
+        "gt_score": 91.43617,
+        "std": 11.813215
+    },
+    {
+        "image": "livec/88.bmp",
+        "gt_score": 72.313514,
+        "std": 18.494684
+    },
+    {
+        "image": "livec/631.JPG",
+        "gt_score": 70.658031,
+        "std": 19.747815
+    },
+    {
+        "image": "livec/882.JPG",
+        "gt_score": 83.544974,
+        "std": 15.756267
+    },
+    {
+        "image": "livec/48.bmp",
+        "gt_score": 81.344828,
+        "std": 19.043502
+    },
+    {
+        "image": "livec/395.bmp",
+        "gt_score": 53.833333,
+        "std": 20.828493
+    },
+    {
+        "image": "livec/216.bmp",
+        "gt_score": 75.179012,
+        "std": 19.679072
+    }
+]

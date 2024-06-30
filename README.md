@@ -34,10 +34,10 @@
 
   </div>
   <div>
-  <sup>1</sup>City University of Hong Kong <sup>2</sup>Nanyang Technological University, <sup>2</sup>Shanghai Jiao Tong University, <sup>4</sup>Jiangxi University of Finance and Economics
+  <sup>1</sup>City University of Hong Kong <sup>2</sup>Nanyang Technological University, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>Jiangxi University of Finance and Economics
        </div>   
 <div>
-<sup>*</sup>Equal contribution.  <sup>#</sup>Corresponding author(s). 
+<sup>*</sup>Equal contribution.  <sup>#</sup>Corresponding author. 
    </div>
     
 <div>

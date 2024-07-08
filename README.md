@@ -153,7 +153,7 @@ After preparing the datasets, you can evaluate pre-trained **Compare2Score** as 
 
 
 ```shell
-python q_align/evaluate/IQA_dataset_eval.py --model-path VQA-CityU/Compare2Score_1--device cuda:0
+python q_align/evaluate/IQA_dataset_eval.py --model-path q-future/Compare2Score --device cuda:0
 ```
 
 

@@ -336,12 +336,12 @@ class MPLUGOwl2LlamaForCausalLM(LlamaForCausalLM, MPLUGOwl2MetaForCausalLM):
         response = requests.get(url)
         return Image.open(BytesIO(response.content)).convert('RGB')
 
-    def load_image(self, path):
-        if path.startswith('http://') or path.startswith('https://'):
-            return self.download_image(path)
-        return Image.open(path).convert('RGB')
+    # def load_image(self, path):
+    #     if path.startswith('http://') or path.startswith('https://'):
+    #         return self.download_image(path)
+    #     return Image.open(path).convert('RGB')
     
-    def score(self, image_path):
+    def score(self, image):
         prompt = "USER: <|image|> <|image|> Compared with the first image, what is your quality rating for second image? \nASSISTANT: The quality of the second image is"
         input_ids = tokenizer_image_token(prompt, self.tokenizer, IMAGE_TOKEN_INDEX, return_tensors='pt').unsqueeze(0).to(self.device)
         
@@ -350,7 +350,7 @@ class MPLUGOwl2LlamaForCausalLM(LlamaForCausalLM, MPLUGOwl2MetaForCausalLM):
         probabilities = []
         for index in self.anchor_indices:
             anchor_image = anchor_images[index]
-            image = self.load_image(image_path)
+            # image = self.load_image(image_path)
             images = [anchor_image, image]
             images = [expand2square(img, tuple(int(x*255) for x in self.image_processor.image_mean)) for img in images]
             image_tensor = self.image_processor.preprocess(images, return_tensors='pt')['pixel_values'].half().to(self.device)

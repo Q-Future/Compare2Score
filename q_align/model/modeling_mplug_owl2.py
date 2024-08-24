@@ -91,7 +91,7 @@ def optimize_score_map_pytorch_cuda(c, seed=0, original_seed=20020, num_iteratio
 
     for _ in range(num_iterations):
         optimizer.zero_grad()
-        sum_log_diff = torch.sum(c * torch.log(torch.maximum(torch.sigmoid(initial_scores[:, None] - initial_scores), torch.tensor(1e-6, device=device))))
+        sum_log_diff = torch.sum(c * torch.log(torch.maximum(norm_cdf(initial_scores[:, None] - initial_scores), torch.tensor(1e-6, device=device))))
         sum_squares = torch.sum(initial_scores ** 2) / 2
 
         loss = -(sum_log_diff - sum_squares)
@@ -106,7 +106,7 @@ def optimize_score_map_pytorch_cuda(c, seed=0, original_seed=20020, num_iteratio
     
     # Reset the seed
     np.random.seed(original_seed)
-    return scaled_scores[-1]
+    return torch.tensor(scaled_scores[-1], device=device)
 
 def softmax(logits):
     # exp_logits = np.exp(logits - np.max(logits))
@@ -332,9 +332,9 @@ class MPLUGOwl2LlamaForCausalLM(LlamaForCausalLM, MPLUGOwl2MetaForCausalLM):
     def get_model(self):
         return self.model
     
-    def download_image(self, url):
-        response = requests.get(url)
-        return Image.open(BytesIO(response.content)).convert('RGB')
+    # def download_image(self, url):
+    #     response = requests.get(url)
+    #     return Image.open(BytesIO(response.content)).convert('RGB')
 
     # def load_image(self, path):
     #     if path.startswith('http://') or path.startswith('https://'):
